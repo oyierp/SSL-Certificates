@@ -1,0 +1,5 @@
+From the zip file, 
+
+jkuat_ac_ke_key.pem is the private key, in case anyone is stuck. You can rename it to the correct extension if necessary since it is  a text file. 
+
+jkuat_ac_ke_key.crt is  the certificate and not the private key. 
